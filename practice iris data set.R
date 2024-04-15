@@ -1,0 +1,10 @@
+?iris
+iris
+head(iris)
+iris$Sepal.Length
+iris$Petal.Length
+str(iris)
+summary(iris)
+summary(iris$Sepal.Length)
+class(iris)
+class(iris$Sepal.Length)
